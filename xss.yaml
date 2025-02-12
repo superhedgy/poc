@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: XSS Vulnerable
-  description: '<a /title="</title><img src onerror=alert(2025)>">'
+  description: '<r><r><r><title><a title="</title><img src onerror=alert(2025)>">'
 paths:
   /accounts:
     get:
