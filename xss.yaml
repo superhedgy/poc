@@ -1,8 +1,7 @@
 swagger: '2.0'
 info:
-  version: "0.0.1"
   title: XSS Vulnerable
-  description: '<r><r><r><title><a title="</title><img src onerror=alert(2025)>">'
+  description: '<r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><table><caption><svg><desc></table></desc><title><a title="</title><img src onerror=alert(1)>">'
 paths:
   /accounts:
     get:
